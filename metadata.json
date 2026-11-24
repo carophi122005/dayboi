@@ -1,0 +1,6 @@
+{
+  "name": "Dạy Bơi Parkson Hùng Vương",
+  "description": "Trang chủ Dạy Bơi Parkson Hùng Vương - Khoá học bơi kèm riêng 1/1, phụ kiện bơi lội chính hãng và kiến thức bơi lội.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
